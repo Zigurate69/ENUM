@@ -1,0 +1,17 @@
+package ENUM;
+
+public enum Disciplinas {
+	
+	MATEMÁTICA,
+	BIOLOGIA,
+	EDUCAÇÃO_FÍSICA,
+	FÍSICA,
+	QUÍMICA,
+	SOCIOLOGIA,
+	FILOSOFIA,
+	INGLES,
+	ARTE,
+	LÍNGUA_PORTUGUESA,
+	HISTÓRIA,
+	GEOGRAFIA
+}
